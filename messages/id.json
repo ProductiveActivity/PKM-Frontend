@@ -1,0 +1,51 @@
+{
+  "common": {
+    "appName": "App Name",
+    "loading": "Memuat...",
+    "error": "Terjadi kesalahan",
+    "back": "Kembali",
+    "save": "Simpan",
+    "cancel": "Batal",
+    "delete": "Hapus",
+    "edit": "Ubah",
+    "search": "Cari",
+    "confirm": "Konfirmasi"
+  },
+  "nav": {
+    "home": "Beranda",
+    "dashboard": "Dasbor",
+    "login": "Masuk",
+    "register": "Daftar",
+    "logout": "Keluar"
+  },
+  "auth": {
+    "login": {
+      "title": "Masuk",
+      "email": "Email",
+      "password": "Kata Sandi",
+      "submit": "Masuk",
+      "noAccount": "Belum punya akun?",
+      "registerLink": "Daftar di sini"
+    },
+    "register": {
+      "title": "Daftar Akun",
+      "name": "Nama Lengkap",
+      "email": "Email",
+      "password": "Kata Sandi",
+      "submit": "Daftar",
+      "hasAccount": "Sudah punya akun?",
+      "loginLink": "Masuk di sini"
+    }
+  },
+  "landing": {
+    "hero": {
+      "title": "Judul Utama Halaman",
+      "subtitle": "Deskripsi singkat pengantar mengenai fitur atau aplikasi.",
+      "cta": "Mulai Sekarang"
+    }
+  },
+  "dashboard": {
+    "title": "Dasbor",
+    "welcome": "Selamat datang di halaman dasbor"
+  }
+}
